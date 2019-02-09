@@ -1,0 +1,11 @@
+{
+  "name": "jetrails",
+  "private": true,
+  "dependencies": {
+    "@rails/webpacker": "3.5",
+    "webix-jet": "^1.6.3-m"
+  },
+  "devDependencies": {
+    "webpack-dev-server": "2.11.2"
+  }
+}

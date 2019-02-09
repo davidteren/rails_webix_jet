@@ -1,2 +1,7 @@
-# rails_webix_jet
-Ruby on Rails App with the lightweight Webix Jet framework and Webix UI components.
+### Ruby on  Rails with th Webix Jet micro framework.
+
+This is a simple SPA demo using Webix Jet.
+
+To see how Webix Jet is integrated into the Rails app look in `app/javascript/packs` 
+
+Thanks to @mkozhukh for the help. 
