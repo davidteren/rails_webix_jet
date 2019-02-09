@@ -1,5 +1,5 @@
 
-###### Simple Rails SPA demo using the Webix Jet micro framework.
+#### Simple Rails SPA demo using the Webix Jet micro framework.
 
 ![SweetLeaf Default Map Demo](rails_webix_spa_example.png?raw=true )
 
